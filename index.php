@@ -6,6 +6,6 @@
     <title>Coba Git remote</title>
 </head>
 <body>
-    
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque, sunt amet. Aliquam, praesentium illum nesciunt ea nobis atque alias iure dolorum illo ratione explicabo deserunt tempora hic optio voluptatum perferendis?</p>
 </body>
 </html>
